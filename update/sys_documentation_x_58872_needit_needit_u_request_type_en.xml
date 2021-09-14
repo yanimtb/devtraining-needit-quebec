@@ -10,8 +10,13 @@
             <plural>Request types</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD
             <sys_created_on>2021-08-16 07:26:18</sys_created_on>
             <sys_id>63bef2f0078270104db3f6fd7c1ed04c</sys_id>
+=======
+            <sys_created_on>2017-01-26 19:28:12</sys_created_on>
+            <sys_id>97e174191bea4410c6956356bd4bcb55</sys_id>
+>>>>>>> ApplicationAccess
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Request type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
