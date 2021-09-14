@@ -62,7 +62,12 @@
         <sys_mod_count>3</sys_mod_count>
 =======
         <sys_created_on>2017-01-24 22:46:34</sys_created_on>
+<<<<<<< HEAD
         <sys_id>f16f6638074270104db3f6fd7c1ed03c</sys_id>
+=======
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8f1f77284fea3200018eb3728110c70e</sys_id>
+>>>>>>> origin/ImportData
         <sys_mod_count>0</sys_mod_count>
 >>>>>>> ApplicationAccess
         <sys_name>x_58872_needit_needit</sys_name>
@@ -72,12 +77,16 @@
 <<<<<<< HEAD
         <sys_update_name>sys_dictionary_x_58872_needit_needit_null</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
+<<<<<<< HEAD
         <sys_updated_on>2021-08-18 10:28:51</sys_updated_on>
 =======
         <sys_update_name>sys_dictionary_x_58872_needit_needit_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-08-19 12:12:14</sys_updated_on>
 >>>>>>> ApplicationAccess
+=======
+        <sys_updated_on>2017-05-02 20:31:15</sys_updated_on>
+>>>>>>> origin/ImportData
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

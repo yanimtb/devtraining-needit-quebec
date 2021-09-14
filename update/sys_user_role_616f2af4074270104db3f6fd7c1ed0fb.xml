@@ -8,11 +8,14 @@
         <includes_roles/>
         <name>x_58872_needit.needit_user</name>
 <<<<<<< HEAD:update/sys_user_role_616f2af4074270104db3f6fd7c1ed0fb.xml
+<<<<<<< HEAD:update/sys_user_role_616f2af4074270104db3f6fd7c1ed0fb.xml
         <requires_subscription>-1</requires_subscription>
 =======
         <requires_subscription/>
 >>>>>>> ApplicationAccess:update/sys_user_role_4e42fb8d0fa83200cd674f8ce1050e72.xml
         <scoped_admin>false</scoped_admin>
+=======
+>>>>>>> origin/ImportData:update/sys_user_role_4e42fb8d0fa83200cd674f8ce1050e72.xml
         <suffix>needit_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>

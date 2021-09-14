@@ -17,9 +17,13 @@
         <number_ref display_value="NI">126f6638074270104db3f6fd7c1ed067</number_ref>
         <provider_class/>
         <read_access>true</read_access>
+<<<<<<< HEAD:update/sys_db_object_a9ceaeb0074270104db3f6fd7c1ed07f.xml
         <scriptable_table>false</scriptable_table>
         <super_class display_value="Task" name="task">2d6db0c76d2220100acb70b3534330b5</super_class>
         <sys_class_code/>
+=======
+        <super_class display_value="Task" name="task">5da4c2856110320092c0b8181e2a7aa0</super_class>
+>>>>>>> origin/ImportData:update/sys_db_object_45007fcd0fa83200cd674f8ce1050ebc.xml
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
