@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
 <<<<<<< HEAD:update/sys_ui_section_58218f34078270104db3f6fd7c1ed002.xml
 <<<<<<< HEAD:update/sys_ui_section_58218f34078270104db3f6fd7c1ed002.xml
+<<<<<<< HEAD:update/sys_ui_section_58218f34078270104db3f6fd7c1ed002.xml
     <sys_ui_section caption="" section_id="58218f34078270104db3f6fd7c1ed002" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
 =======
 =======
 >>>>>>> origin/FlowDesigner:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
+=======
+>>>>>>> origin/ScheduledScriptExecutionEvents:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
     <sys_ui_section caption="" section_id="97d975bd0fa03200cd674f8ce1050e82" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
 >>>>>>> ApplicationAccess:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
         <sys_ui_element action="INSERT_OR_UPDATE">
@@ -145,9 +148,12 @@
 =======
             <sys_created_on>2017-01-26 21:55:52</sys_created_on>
 <<<<<<< HEAD:update/sys_ui_section_58218f34078270104db3f6fd7c1ed002.xml
+<<<<<<< HEAD:update/sys_ui_section_58218f34078270104db3f6fd7c1ed002.xml
 >>>>>>> ApplicationAccess:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
 =======
 >>>>>>> origin/FlowDesigner:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
+=======
+>>>>>>> origin/ScheduledScriptExecutionEvents:update/sys_ui_section_97d975bd0fa03200cd674f8ce1050e82.xml
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>58218f34078270104db3f6fd7c1ed002</sys_id>

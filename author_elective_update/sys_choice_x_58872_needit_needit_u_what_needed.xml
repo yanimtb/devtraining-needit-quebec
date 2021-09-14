@@ -196,6 +196,7 @@
             <sys_updated_on>2017-02-16 00:07:09</sys_updated_on>
             <value>other</value>
         </sys_choice>
+<<<<<<< HEAD:author_elective_update/sys_choice_x_58872_needit_needit_u_what_needed.xml
 <<<<<<< HEAD:update/sys_choice_x_58872_needit_needit_u_what_needed.xml
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_what_needed</element>
@@ -217,5 +218,7 @@
         </sys_choice_set>
 =======
 >>>>>>> origin/FlowDesigner:author_elective_update/sys_choice_x_58872_needit_needit_u_what_needed.xml
+=======
+>>>>>>> origin/ScheduledScriptExecutionEvents:author_elective_update/sys_choice_x_58872_needit_needit_u_what_needed.xml
     </sys_choice>
 </record_update>

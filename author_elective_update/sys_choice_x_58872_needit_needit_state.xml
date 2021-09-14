@@ -136,6 +136,7 @@
             <sys_updated_on>2017-01-26 20:14:39</sys_updated_on>
             <value>8</value>
         </sys_choice>
+<<<<<<< HEAD:author_elective_update/sys_choice_x_58872_needit_needit_state.xml
 <<<<<<< HEAD:update/sys_choice_x_58872_needit_needit_state.xml
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>
@@ -157,5 +158,7 @@
         </sys_choice_set>
 =======
 >>>>>>> origin/FlowDesigner:author_elective_update/sys_choice_x_58872_needit_needit_state.xml
+=======
+>>>>>>> origin/ScheduledScriptExecutionEvents:author_elective_update/sys_choice_x_58872_needit_needit_state.xml
     </sys_choice>
 </record_update>

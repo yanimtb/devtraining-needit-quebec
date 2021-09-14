@@ -9,6 +9,7 @@
         <name>x_58872_needit.admin</name>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <requires_subscription/>
         <scoped_admin>false</scoped_admin>
 =======
@@ -17,6 +18,10 @@
         <requires_subscription/>
         <scoped_admin>false</scoped_admin>
 >>>>>>> origin/FlowDesigner
+=======
+        <requires_subscription/>
+        <scoped_admin>false</scoped_admin>
+>>>>>>> origin/ScheduledScriptExecutionEvents
         <suffix>admin</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>

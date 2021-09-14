@@ -2,7 +2,10 @@
     <sys_choice action="INSERT_OR_UPDATE" field="u_request_type" table="x_58872_needit_needit" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
 <<<<<<< HEAD:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
+<<<<<<< HEAD:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
 =======
+=======
+>>>>>>> origin/ScheduledScriptExecutionEvents:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
             <element>u_request_type</element>
             <name>x_58872_needit_needit</name>
             <sys_class_name>sys_choice_set</sys_class_name>
@@ -28,7 +31,10 @@
 =======
             <sequence>0</sequence>
             <synonyms/>
+<<<<<<< HEAD:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
 >>>>>>> origin/FlowDesigner:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
+=======
+>>>>>>> origin/ScheduledScriptExecutionEvents:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-10-31 13:39:47</sys_created_on>
             <sys_id>27bef2f0078270104db3f6fd7c1ed0ea</sys_id>
@@ -103,6 +109,7 @@
         </sys_choice>
 <<<<<<< HEAD:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
 <<<<<<< HEAD:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
+<<<<<<< HEAD:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
 =======
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_request_type</element>
@@ -125,5 +132,7 @@
 >>>>>>> origin/ImportData:update/sys_choice_x_58872_needit_needit_u_request_type.xml
 =======
 >>>>>>> origin/FlowDesigner:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
+=======
+>>>>>>> origin/ScheduledScriptExecutionEvents:author_elective_update/sys_choice_x_58872_needit_needit_u_request_type.xml
     </sys_choice>
 </record_update>
