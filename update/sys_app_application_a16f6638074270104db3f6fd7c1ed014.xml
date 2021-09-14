@@ -14,7 +14,10 @@
         <sys_created_on>2021-08-16 06:19:16</sys_created_on>
 =======
         <sys_created_on>2017-01-24 22:46:33</sys_created_on>
+<<<<<<< HEAD:update/sys_app_application_a16f6638074270104db3f6fd7c1ed014.xml
 >>>>>>> ApplicationAccess:update/sys_app_application_0242fb8d0fa83200cd674f8ce1050e79.xml
+=======
+>>>>>>> origin/FlowDesigner:update/sys_app_application_0242fb8d0fa83200cd674f8ce1050e79.xml
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a16f6638074270104db3f6fd7c1ed014</sys_id>

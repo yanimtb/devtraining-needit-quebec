@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
+<<<<<<< HEAD:update/sys_ui_section_d0218f34078270104db3f6fd7c1ed003.xml
     <sys_ui_section caption="Log" section_id="d0218f34078270104db3f6fd7c1ed003" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
+=======
+    <sys_ui_section caption="Log" section_id="252925f50fa03200cd674f8ce1050e27" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+>>>>>>> origin/FlowDesigner:update/sys_ui_section_252925f50fa03200cd674f8ce1050e27.xml
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
             <position>0</position>
@@ -49,7 +53,11 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
+<<<<<<< HEAD:update/sys_ui_section_d0218f34078270104db3f6fd7c1ed003.xml
             <sys_created_on>2021-08-16 07:36:43</sys_created_on>
+=======
+            <sys_created_on>2017-01-26 20:42:50</sys_created_on>
+>>>>>>> origin/FlowDesigner:update/sys_ui_section_252925f50fa03200cd674f8ce1050e27.xml
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d0218f34078270104db3f6fd7c1ed003</sys_id>
